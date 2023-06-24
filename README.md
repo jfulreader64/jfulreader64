@@ -7,13 +7,13 @@
 - <b>Tractive System Active Light</b>
   - [TSAL](https://github.com/jfulreader64/TSAL)
 - <b>Voltage Indicator</b>
-  - [VI](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [VI](https://github.com/jfulreader64/Voltage-Indicator)
 - <b>Safety Circuit</b>
-  - [Shutdown Circuit](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Shutdown Circuit](https://github.com/jfulreader64/Safety-Circuit)
 - <b>Accelerator Pedal Posistion Sensor/Engine Control Unit</b>
-  - [APPS/ECU](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [APPS/ECU](https://github.com/jfulreader64/Accelerator-Pedal-Posistion-Sensor-and-Engine-Control-Unit)
 - <b>FSAE 2022-23 Car Schematics</b>
-  - [Schematics](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Schematics](https://github.com/jfulreader64/FSAE-2022-23-Car-Schematics)
 
 
 <h2> 🤳 Connect with me:</h2>
